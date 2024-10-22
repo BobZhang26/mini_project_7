@@ -1,9 +1,15 @@
 [![CI](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
-## Miniproject 6: Python Script interacting with SQL Database
+## Miniproject 7: Package a Python Script into a Command-Line Tool
 
 ## Summary
 This project is aimed to create an ETL-Query pipeline with an external cloud database. Databricks is used here. Then we used the dataset extracted from FiveThrityEight's public datasets to perform extracting, transforming and complex query.
 <img width="977" alt="Screenshot 2023-10-02 at 11 25 47" src="https://github.com/nogibjj/mini_project_5/assets/141781876/94018e4a-0a3c-418a-8900-3bd898cff266">
+
+## Requirements
+
+- Package a Python script with setuptools or a similar tool
+- Include a user guide on how to install and use the tool
+- Include communication with an external or internal database (NoSQL, SQL, etc) [If you use Rust you can skip the DB part]
 
 ## Structure
 
